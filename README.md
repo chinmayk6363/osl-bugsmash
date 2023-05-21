@@ -23,6 +23,20 @@ or
 5. Once you find the bug, check the code and see how you can solve it.
 6. The bug can be present in any of the file like: `index.html`, `app.js`, `script.js`, `app.css`.
 
+
+## Website without Bugs:
+
+We have hosted the bug-free websites for your reference, have a look and have fun debugging :)
+
+| Website 👇🏻                | Links |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Calculator                 | <a href="https://aniruddhabagal.github.io/javascript-projects/7.Simple-Calculator" target="_blank"> Link </a> |
+| Pokemon                    | <a href="https://aniruddhabagal.github.io/javascript-projects/1.Pokemon-List" target="_blank"> Link </a> 
+| Score Keeper          | <a href="https://aniruddhabagal.github.io/javascript-projects/4.Game-Scorekeeper" target="_blank"> Link </a> |
+| Expand Cards      | <a href="https://aniruddhabagal.github.io/javascript-projects/5.Expanding-Cards" target="_blank"> Link </a> |
+| Progress-Tracker           | <a href="https://aniruddhabagal.github.io/javascript-projects/6.Progress-Tracker" target="_blank"> Link </a> |
+
+
 <hr />
 
 
