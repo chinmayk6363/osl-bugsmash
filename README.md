@@ -23,3 +23,7 @@ or
 5. Once you find the bug, check the code and see how you can solve it.
 6. The bug can be present in any of the file like: `index.html`, `app.js`, `script.js`, `app.css`.
 
+<hr />
+
+
+## Hope you enjoy the session. Cheers 🥳
