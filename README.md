@@ -30,7 +30,7 @@ We have hosted the bug-free websites of the same for your reference, have a look
 
 | Website 👇🏻                | Links |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Calculator                 | <a href="https://aniruddhabagal.github.io/javascript-projects/7.Simple-Calculator" target="_blank"> Link </a> |
+| Calculator                 | <a href="https://aniruddhabagal.github.io/javascript-projects/7.calculator" target="_blank"> Link </a> |
 | Pokemon                    | <a href="https://aniruddhabagal.github.io/javascript-projects/1.Pokemon-List" target="_blank"> Link </a> 
 | Score Keeper          | <a href="https://aniruddhabagal.github.io/javascript-projects/4.Game-Scorekeeper" target="_blank"> Link </a> |
 | Expand Cards      | <a href="https://aniruddhabagal.github.io/javascript-projects/5.Expanding-Cards" target="_blank"> Link </a> |
