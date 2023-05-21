@@ -26,7 +26,7 @@ or
 
 ## Website without Bugs:
 
-We have hosted the bug-free websites for your reference, have a look and have fun debugging :)
+We have hosted the bug-free websites of the same for your reference, have a look and have fun debugging :)
 
 | Website 👇🏻                | Links |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------- |
