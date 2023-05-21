@@ -21,4 +21,5 @@ or
 2. Open the `index.html` file.
 4. See if you can find any bugs.
 5. Once you find the bug, check the code and see how you can solve it.
+6. The bug can be present in any of the file like: `index.html`, `app.js`, `script.js`, `app.css`.
 
