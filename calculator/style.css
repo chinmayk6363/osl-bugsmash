@@ -94,7 +94,7 @@
 
 }
 
-.equal-sign {
+.button:equal-sign {
 
     background-color: #25a8e0;
 
@@ -104,7 +104,7 @@
 
 }
 
-.equal-sign:hover {
+.clear:hover {
 
     background-color: #4e9ed4;
 

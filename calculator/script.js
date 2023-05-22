@@ -8,7 +8,7 @@ function solve() {
   let x = document.getElementById("result").value;
 
   let y = // Search how eval() function works and apply it.
-    (document.getElementById("result").value = y);
+    document.getElementById("result").value = y;
 
   return y;
 }

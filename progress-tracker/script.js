@@ -6,7 +6,7 @@ const circles = document.querySelectorAll(".circle");
 let currentActive = 1;
 
 next.addEventListener("click", () => {
-  currentActive = currentActive + 2; //Should move to only one circle
+  currentActive = currentActive + 1; //Should move to only one circle
 
   if (currentActive > circles.length) {
     currentActive = circles.length;
@@ -16,7 +16,7 @@ next.addEventListener("click", () => {
 });
 
 prev.addEventListener("click", () => {
-  currentActive = currentActive - 2; // Should move back by only 1 circle
+  currentActive = currentActive - 1; // Should move back by only 1 circle
 
   if (currentActive < 1) {
     currentActive = 1;
